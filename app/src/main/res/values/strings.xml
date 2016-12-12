@@ -4,4 +4,5 @@
     <string name="station_name">Station name</string>
     <string name="line_number">Line number</string>
     <string name="search">Search</string>
+    <string name="no_hits">Ni zadetkov</string>
 </resources>
