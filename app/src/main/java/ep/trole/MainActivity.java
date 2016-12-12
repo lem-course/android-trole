@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity implements Callback<MainActi
                 if (!b.arrivals.isEmpty()) {
                     sb.append("  ").append(b.number).append("-")
                             .append(b.direction).append(": ")
-                            .append(arrivals).append("\n");
+                            .append(b.arrivals).append("\n");
                 }
             }
         }
