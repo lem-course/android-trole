@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidTrole</string>
+    <string name="app_name">android-trole</string>
     <string name="action_settings">Settings</string>
     <string name="station_name">Station name</string>
     <string name="line_number">Line number</string>
